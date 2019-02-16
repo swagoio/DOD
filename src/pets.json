@@ -1,0 +1,65 @@
+[{
+    "id": 0,
+    "name": "bird",
+    "picture": "images/bird.jpg",
+    "age": 3,
+    "breed": "Scottish",
+    "location": "Lisco "
+  },
+  {
+    "id": 1,
+    "name": "building",
+    "picture": "images/building.png",
+    "age": 3,
+    "breed": "Scottish",
+    "location": "Tooleville"
+  },
+  {
+    "id": 2,
+    "name": "glass",
+    "picture": "images/glass.png",
+    "age": 2,
+    "breed": "French",
+    "location": "Freeburn"
+  },
+  {
+    "id": 3,
+    "name": "hawk",
+    "picture": "images/hawk.png",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Camas"
+  },
+  {
+    "id": 4,
+    "name": "leaf",
+    "picture": "images/leaf.png",
+    "age": 2,
+    "breed": "French",
+    "location": "Gerber"
+  },
+  {
+    "id": 5,
+    "name": "mountin",
+    "picture": "images/mountin.png",
+    "age": 3,
+    "breed": "French",
+    "location": "Innsbrook"
+  },
+  {
+    "id": 6,
+    "name": "street",
+    "picture": "images/street.png",
+    "age": 3,
+    "breed": "Golden",
+    "location": "Soudan"
+  },
+  {
+    "id": 7,
+    "name": "circle",
+    "picture": "images/circle.png",
+    "age": 3,
+    "breed": "Golden",
+    "location": "Jacksonwald"
+  }
+]
