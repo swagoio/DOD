@@ -12,14 +12,18 @@
 npm install -g truffle
 ```
 
-#### 2. compile contract and migrate
+#### 2. install packet
+
+    npm install
+
+#### 3. compile contract and migrate
 
     truffle compile
     truffle migrate
 
 ​	you can change the real  web3  configuration in truffle-config.js, the default web3 server is localhost and port 7545.
 
-#### 3. start server
+#### 4. start server
 
     npm run dev
 
